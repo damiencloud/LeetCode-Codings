@@ -8,21 +8,13 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🏆 Statistics</h3>
       <ul>
-        <li><b>Total Solved:</b> 1</li>
+        <li><b>Total Solved:</b> 2</li>
         <li><b>Current Streak:</b> 🔥 1 Days</li>
         <li><b>Longest Streak:</b> ⚡ 1 Days</li>
         <li><b>Last Sync:</b> 📅 2026-06-30</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Environment</h3>
-      <ul>
-        <li><b>GitHub Account:</b> <a href="https://github.com/damiencloud">@damiencloud</a></li>
-        <li><b>Repository:</b> <code>Hackerrank-Codings</code></li>
-        <li><b>Branch Target:</b> <code>main</code></li>
       </ul>
     </td>
   </tr>
@@ -34,7 +26,7 @@
 
 <table>
   <tr>
-    <td>🟢 <b>Easy:</b> 1 (100%)</td>
+    <td>🟢 <b>Easy:</b> 2 (100%)</td>
     <td><svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="250" height="14" rx="7" fill="#2ea043" />
@@ -58,7 +50,7 @@
 
 ---
 
-## 🎯 Current Milestone: 1 / 500 Problems (0%)
+## 🎯 Current Milestone: 2 / 500 Problems (0%)
 <svg width="250" height="14" viewBox="0 0 250 14" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="250" height="14" rx="7" fill="#161b22" />
   <rect width="0" height="14" rx="7" fill="#38bdf8" />
@@ -76,12 +68,12 @@
   <tr>
     <td valign="top">
       <ul>
-        <li><b>SQL:</b> 1 solutions</li>
+        <li><b>SQL:</b> 2 solutions</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>LeetCode:</b> 1 submissions</li>
+        <li><b>LeetCode:</b> 2 submissions</li>
       </ul>
     </td>
   </tr>
@@ -106,6 +98,7 @@
 
 | Problem Title | Language | Platform | Synced Date | Status |
 | :--- | :---: | :---: | :---: | :---: |
+| Combine Two Tables | `SQL` | **LeetCode** | 2026-06-30 | 🟢 Success |
 | Duplicate Emails | `SQL` | **LeetCode** | 2026-06-30 | 🟢 Success |
 
 ---
