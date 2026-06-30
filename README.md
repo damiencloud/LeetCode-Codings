@@ -1,6 +1,6 @@
 # 🧠 Coding Solutions Portfolio
 
-> Solved challenges automatically synchronized by [AutoCode Hub](https://github.com/damien/autocodehub) 🚀
+> Solved challenges automatically synchronized by [AutoCode Hub](https://github.com/damiencloud/AutoCodeHub) 🚀
 
 ---
 
